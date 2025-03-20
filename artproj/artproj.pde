@@ -9,7 +9,7 @@ float[][] kernel = {{ -1, -1, -1},
   { -1, -1, -1}};
 void setup() {
   size (500, 500);
-  pic = loadImage("northern.jpg");
+  pic = loadImage("art.jpg");
   pic.loadPixels();
   //tmp = new PImage(width, height);
   //copy(pic,0,0,width,height,0,0,width,height);
